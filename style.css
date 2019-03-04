@@ -13,3 +13,9 @@ h1 {
 .barrenav {
     background-color: #202A25;
 }
+
+.logos {
+    position: relative;
+    height: 10%;
+    width: 10%;
+}
