@@ -54,3 +54,9 @@ h1 {
     overflow-y: scroll;
     margin: 0;
     height: 40vh; }
+
+
+.cardModal:hover img {
+    opacity: 0.5;
+    cursor: pointer;
+}
