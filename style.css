@@ -16,8 +16,13 @@ h1 {
 
 .logos {
     position: relative;
-    height: 10%;
-    width: 10%;
+    height: 100%;
+    width: 100%;
+}
+
+.img_logos{
+    width: 12vh;
+    height: 12vh;
 }
 
 .scrollbar-deep-purple::-webkit-scrollbar-track {
