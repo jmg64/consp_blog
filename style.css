@@ -59,6 +59,7 @@ h1 {
 .cardModal:hover img {
     opacity: 0.5;
     cursor: pointer;
+    transition: 0.3s; 
 }
 
 .imgExtra {
