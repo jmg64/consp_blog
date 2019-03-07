@@ -1,18 +1,53 @@
-/* body{
-    border: 1px solid #202A25;
-} */
+body{
+    background-color: white;
+}
+
+@font-face{
+    font-family: 'oldNewsPaper';
+    src:url('font/oldnewspapertypes/OldNewspaperTypes.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'typeWriters';
+    src: url('font/jmh_typewriter/JMH Typewriter.ttf') format('truetype'),
+}
+
+h5{
+    font-family: oldNewsPaper;
+    color: #008F11;
+   
+}
 
 p {
+    font-family: oldNewsPaper;
+    /* color:#202A25; */
     color:#202A25;
+    
+}
+
+ul li {
+    font-family: oldNewsPaper;
+    color: #008F11;
+}
+
+.titre_nav{
+    font-family: oldNewsPaper;
+    font-size: 4em;
+    color:white;
+}
+
+.titre_nav:hover {
+    color: #008F11;
 }
 
 h1 {
     color: #016FB9
 }
 
-.barrenav {
-    background-color: #202A25;
+.backg_nav {
+    background-color: black;
 }
+
 
 .logos {
     position: relative;
