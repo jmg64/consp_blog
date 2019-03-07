@@ -30,24 +30,31 @@ ul li {
     color: #008F11;
 }
 
-.titre_nav{
+h1 {
     font-family: oldNewsPaper;
-    font-size: 4em;
-    color:white;
-}
-
-.titre_nav:hover {
     color: #008F11;
 }
 
-h1 {
-    color: #016FB9
+.titre_nav {
+    font-family: oldNewsPaper;
+    font-size: 2em;
+    color:white;
 }
 
-.backg_nav {
-    background-color: black;
+
+h2 {
+    font-family: oldNewsPaper;
+    color: #202A25;
 }
 
+label {
+    font-family: oldNewsPaper;
+    color: #202A25;
+}
+
+.subbut {
+    font-family: oldNewsPaper;
+}
 
 .logos {
     position: relative;
